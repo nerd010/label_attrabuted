@@ -5,6 +5,22 @@
    <BuildAction
       parallelizeBuildables = "YES"
       buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "56E770951C91ADD4009A16C0"
+               BuildableName = "Label_attrabuted.app"
+               BlueprintName = "Label_attrabuted"
+               ReferencedContainer = "container:Label_attrabuted.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
    </BuildAction>
    <TestAction
       buildConfiguration = "Debug"
@@ -12,7 +28,36 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "56E770AE1C91ADD4009A16C0"
+               BuildableName = "Label_attrabutedTests.xctest"
+               BlueprintName = "Label_attrabutedTests"
+               ReferencedContainer = "container:Label_attrabuted.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "56E770B91C91ADD4009A16C0"
+               BuildableName = "Label_attrabutedUITests.xctest"
+               BlueprintName = "Label_attrabutedUITests"
+               ReferencedContainer = "container:Label_attrabuted.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "56E770951C91ADD4009A16C0"
+            BuildableName = "Label_attrabuted.app"
+            BlueprintName = "Label_attrabuted"
+            ReferencedContainer = "container:Label_attrabuted.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -26,6 +71,16 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "56E770951C91ADD4009A16C0"
+            BuildableName = "Label_attrabuted.app"
+            BlueprintName = "Label_attrabuted"
+            ReferencedContainer = "container:Label_attrabuted.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -35,6 +90,16 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "56E770951C91ADD4009A16C0"
+            BuildableName = "Label_attrabuted.app"
+            BlueprintName = "Label_attrabuted"
+            ReferencedContainer = "container:Label_attrabuted.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
